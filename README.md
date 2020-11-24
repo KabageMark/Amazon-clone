@@ -1,10 +1,30 @@
-# Getting Started with Create React App
+# Amazon Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project has been created using the following technologies
 
-## Available Scripts
+## React.js
 
-In the project directory, you can run:
+This is for frontend
+
+## Express and Node
+
+This is were used for writing stripe cloud functions
+
+## Material ui
+
+This is for styling ui components
+
+## Firestore
+
+This is was the real time database
+
+## Firebase Auth, 
+
+This is for authentication
+
+## Stripe
+
+This is for payments processing
 
 ### `npm start`
 
